@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Wake
 
-<!--
-**0xWake/0xWake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 全栈开发者 / 测试工程师
+- 🌱 正在学习 AI、RAG、Agent
+- 💬 问我关于 Python、JavaScript、性能测试
+- 📫 邮箱: zhangyiyi941@gmail.com
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
